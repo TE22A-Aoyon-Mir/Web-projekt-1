@@ -4,3 +4,10 @@ body
     grid-template-columns: 1fr 1fr;
     background-color: bisque;
 }
+h1
+{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Playpen Sans';
+    text-align: center
+}
