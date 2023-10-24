@@ -3,6 +3,7 @@ body
     display: grid;
     grid-template-columns: 1fr 1fr;
     background-color: bisque;
+    gap: 10px;
 }
 h1
 {
@@ -10,4 +11,12 @@ h1
     border-radius: 5px;
     font-family: 'Playpen Sans';
     text-align: center
+}
+img
+{
+    height: 100%;
+    width: 100%;
+    margin-top: 21px;
+    border: 2px solid black;
+    border-radius: 5px;
 }
