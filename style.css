@@ -20,3 +20,17 @@ img
     border: 2px solid black;
     border-radius: 5px;
 }
+main
+{
+    margin-top: 21px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Playpen Sans';
+}
+nav
+{
+    margin-top: 21px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Playpen Sans';
+}
