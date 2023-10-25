@@ -34,3 +34,9 @@ nav
     border-radius: 5px;
     font-family: 'Playpen Sans';
 }
+footer
+{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Playpen Sans';
+}
