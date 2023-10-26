@@ -4,13 +4,18 @@ body
     grid-template-columns: 1fr 1fr;
     background-color: bisque;
     gap: 10px;
+    font-family: 'Playpen Sans';
 }
 h1
 {
     border: 2px solid black;
     border-radius: 5px;
-    font-family: 'Playpen Sans';
     text-align: center
+}
+p
+{
+    border: 2px solid black;
+    border-radius: 5px;
 }
 img
 {
@@ -25,18 +30,15 @@ main
     margin-top: 21px;
     border: 2px solid black;
     border-radius: 5px;
-    font-family: 'Playpen Sans';
 }
 nav
 {
     margin-top: 21px;
     border: 2px solid black;
     border-radius: 5px;
-    font-family: 'Playpen Sans';
 }
 footer
 {
     border: 2px solid black;
     border-radius: 5px;
-    font-family: 'Playpen Sans';
 }
